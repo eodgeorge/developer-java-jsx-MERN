@@ -1,0 +1,5 @@
+npm i @chakra-ui/icons
+npm i react-icons
+ npm i react-router-dom  
+ npm i vite@latest .
+ npm i nodemon -D
